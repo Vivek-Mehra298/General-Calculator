@@ -57,6 +57,5 @@ button:hover{
     cursor: pointer;
 }
 .operator{
-    color: #ffff;
-    background-color: rgb(225, 173, 77);
+   color:orange;
 }
